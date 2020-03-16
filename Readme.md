@@ -87,3 +87,9 @@ Run the `recog_celeb.py` file for face detection on a video file.
 ```
 
 Path for input and ouput video file can be edited in `recog_celeb.py` file.
+
+
+
+## Result
+
+![Ouput gif](ouput.gif "Output GIF")
