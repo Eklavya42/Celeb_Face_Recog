@@ -4,6 +4,9 @@ This repository is forked from original [facenet implementation](https://github.
 
 ### Dataset taken from kaggle : [Face Celeb Data](https://www.kaggle.com/tanvirshanto/facedatasetcelebrity)
 
+#### Dataset Compressed [here](data/celeb.tar.gz)
+
+
 > Folder Structure for data
 
 ```
